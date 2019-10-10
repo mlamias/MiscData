@@ -1,0 +1,59 @@
+Country,HHSRegionName,HHSRegionNumber,State
+United States,Region 1,1,Connecticut
+United States,Region 1,1,Maine
+United States,Region 1,1,Massachusetts
+United States,Region 1,1,New Hampshire
+United States,Region 1,1,Rhode Island
+United States,Region 1,2,Vermont
+United States,Region 2,2,New Jersey
+United States,Region 2,2,New York
+United States,Region 2,2,Puerto Rico
+United States,Region 2,3,U.S. Virgin Islands
+United States,Region 3,3,District of Columbia
+United States,Region 3,3,Maryland
+United States,Region 3,3,Pennsylvania
+United States,Region 3,3,Virginia
+United States,Region 3,4,West Virginia
+United States,Region 4,4,Alabama
+United States,Region 4,4,Florida
+United States,Region 4,4,Georgia
+United States,Region 4,4,Kentucky
+United States,Region 4,4,Mississippi
+United States,Region 4,4,North Carolina
+United States,Region 4,4,South Carolina
+United States,Region 4,5,Tennessee
+United States,Region 5,5,Illinois
+United States,Region 5,5,Indiana
+United States,Region 5,5,Michigan
+United States,Region 5,5,Minnesota
+United States,Region 5,5,Ohio
+United States,Region 5,6,Wisconsin
+United States,Region 6,6,Arkansas
+United States,Region 6,6,Louisiana
+United States,Region 6,6,New Mexico
+United States,Region 6,6,Oklahoma
+United States,Region 6,7,Texas exit
+United States,Region 7,7,Iowa
+United States,Region 7,7,Kansas
+United States,Region 7,7,Missouri
+United States,Region 7,8,Nebraska
+United States,Region 8,8,Colorado
+United States,Region 8,8,Montana
+United States,Region 8,8,North Dakota
+United States,Region 8,8,South Dakota
+United States,Region 8,8,Utah
+United States,Region 8,9,Wyoming
+United States,Region 9,9,American Samoa 
+United States,Region 9,9,Arizona
+United States,Region 9,9,California
+United States,Region 9,9,Commonwealth of the Northern Mariana Islands
+United States,Region 9,9,Federated States of Micronesia
+United States,Region 9,9,Guam
+United States,Region 9,9,Hawaii
+United States,Region 9,9,Nevada
+United States,Region 9,9,Republic of Palau
+United States,Region 9,10,Republic of the Marshall Islands
+United States,Region 10,10,Alaska
+United States,Region 10,10,Idaho
+United States,Region 10,10,Oregon
+United States,Region 10,10,Washington
